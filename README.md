@@ -1,6 +1,9 @@
 [AZ500-AzureSecurityTechnologies](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/) \
 [AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions](https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/)
 
+# CCNA
+[CCNA_Course_Notes](https://github.com/psaumur/CCNA_Course_Notes)
+
 ## Blogs
 
 1. [MS Tech Community: Azure Network Security Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog)
