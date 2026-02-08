@@ -2,7 +2,8 @@
 [AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions](https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/)
 
 # CCNA
-[CCNA_Course_Notes](https://github.com/psaumur/CCNA_Course_Notes)
+[CCNA_Course_Notes](https://github.com/psaumur/CCNA_Course_Notes) \
+[ccna practices](https://ccna-questions.com/)
 
 ## Blogs
 1. [Azure-AZ-700-Study-Guide](https://github.com/AzureMentor/Azure-AZ-700-Study-Guide)
