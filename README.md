@@ -5,9 +5,9 @@
 [CCNA_Course_Notes](https://github.com/psaumur/CCNA_Course_Notes)
 
 ## Blogs
-
-1. [MS Tech Community: Azure Network Security Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog)
-2. [Azure Network Security - Interactive Guide](https://mslearn.cloudguides.com/guides/Azure%20network%20security)
+1. [Azure-AZ-700-Study-Guide](https://github.com/AzureMentor/Azure-AZ-700-Study-Guide)
+2. [MS Tech Community: Azure Network Security Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog)
+3. [Azure Network Security - Interactive Guide](https://mslearn.cloudguides.com/guides/Azure%20network%20security)
 
 ## GitHub Resources
 
